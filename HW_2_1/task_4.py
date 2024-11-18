@@ -1,3 +1,7 @@
+'''Для DataFrame из предыдущей задачи отсортируйте данные по размеру зарплаты. Из отсортированного DataFrame 
+выведите 5 первых строк и  последних'''
+
+
 import pandas as pd
 import numpy as np
 import random
